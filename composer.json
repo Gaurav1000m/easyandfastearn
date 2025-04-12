@@ -1,0 +1,10 @@
+{
+  "name": "telegram/voting-bot",
+  "description": "Telegram voting and referral bot",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
